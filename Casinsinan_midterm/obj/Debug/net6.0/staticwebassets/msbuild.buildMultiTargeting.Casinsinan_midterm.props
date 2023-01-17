@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Casinsinan_midterm.props" />
+</Project>
